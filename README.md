@@ -1,2 +1,2 @@
 # cnn-training-on-cifar-10-cifar-100
-n/a
+https://keras.io/examples/vision/mnist_convnet/
